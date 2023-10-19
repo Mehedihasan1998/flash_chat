@@ -1,4 +1,3 @@
-import 'package:flash_chat/screens/login_screen.dart';
 import 'package:flutter/material.dart';
 
 class MyButton extends StatelessWidget {

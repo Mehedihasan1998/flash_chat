@@ -58,7 +58,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 onChanged: (value) {
                   password = value;
                 },
-                decoration: kTextFieldDecoration.copyWith(hintText:'Enter your password'),
+                decoration: kTextFieldDecoration.copyWith(hintText:'Enter your password',),
               ),
               SizedBox(
                 height: 24.0,
